@@ -1,5 +1,8 @@
 # Exbitly
 
+[![Hex.pm](https://img.shields.io/hexpm/v/exbitly.svg?style=flat)](https://hex.pm/packages/exbitly)
+[![Hex.pm Downloads](https://img.shields.io/hexpm/dt/exbitly.svg?style=flat)](https://hex.pm/packages/exbitly)
+
 An Elixir library to interact with the Bitly API.
 
 ## Installation
