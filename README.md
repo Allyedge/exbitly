@@ -11,9 +11,9 @@ To use Exbitly, you first have to add it to your `mix.exs` dependencies.
 
 ```elixir
 defp deps do
-    [
-      {:exbitly, "~> 0.1.0"}
-    ]
+  [
+    {:exbitly, "~> 0.1.0"}
+  ]
 end
 ```
 
